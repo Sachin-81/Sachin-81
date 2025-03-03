@@ -1,11 +1,11 @@
 # 👋 Hey there, I'm Sachin!
-## Cloud Infrastructure & Systems Engineer | Terraform | AWS | Azure| VMware | Kubernetes | CI/CD Enthusiast| Windows and Linux | O 365 |
+## Cloud Infrastructure & Systems Engineer | Terraform | AWS | Azure| VMware | Kubernetes | CI/CD | Windows and Linux | O-365 |Enthusiast
 
 ---
 
 ### ** About Me**
 
-Hey, I'm Sachin! I'm a cloud Infrastructure & Systems engineer passionate about **Infrastructure as Code (IaC), automation, and scalable cloud solutions**. I specialize in **AWS, Azure, Terraform, Kubernetes, VMware, Windows and Linux Servers, o365 and SAP**, helping businesses streamline cloud deployments with efficiency and security at scale. 
+Hey, I'm Sachin! I'm a cloud Infrastructure & Systems engineer passionate about **Infrastructure as Code (IaC), automation, and scalable cloud solutions**. I specialize in **AWS, Azure, Terraform, Kubernetes, VMware, Windows and Linux Servers, O-365 and SAP**, helping businesses streamline cloud deployments with efficiency and security at scale. 
 
 I thrive in environments where automation drives efficiency, and I’m constantly learning new technologies to enhance DevOps workflows. If it involves **cloud, infrastructure, or automation, I’m all in!** 
 
@@ -20,7 +20,7 @@ I thrive in environments where automation drives efficiency, and I’m constantl
 ✅ **Monitoring & Logging:** Prometheus | Grafana | CloudWatch | Splunk | ELK Stack  
 ✅ **Scripting & Development:** Python | Shell Scripting | PowerShell | Bash  
 ✅ **AWS RDS | Azure SQL**  
-✅ **Version Control & DevOps Tools:** Git | GitHub | GitLab | SonarQube  
+✅ **Version Control & DevOps Tools:** Git | GitHub | GitLab 
 ✅ **Cloud Security & Compliance:** Azure Defender | AWS Security Hub 
 ✅ **Windows & Linux Server Administration:** Windows Server | Linux (Ubuntu, RHEL, CentOS) | Active Directory | Group Policies  
 ✅ **SAP:** SAP HANA | SAP Basis | SAP on Azure  
